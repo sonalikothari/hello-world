@@ -1,2 +1,3 @@
 # hello-world
-Sample repository
+Learning about github to upload some of my programs
+
